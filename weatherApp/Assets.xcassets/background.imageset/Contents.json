@@ -1,0 +1,32 @@
+{
+  "images" : [
+    {
+      "filename" : "HD wallpaper_ wolf, howl, loneliness, art, full moon.pdf",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "light"
+        }
+      ],
+      "filename" : "iPhone X Wallpapers_ Photo.pdf",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "HD wallpaper_ wolf, howl, loneliness, art, full moon 1.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
